@@ -12,6 +12,13 @@
     width: 100%;
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-right: -15px;
+    margin-left: -15px; */
+}
+
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
     .container {
